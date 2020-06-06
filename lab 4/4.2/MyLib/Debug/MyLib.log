@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  MyLib.cpp
+  Generating Code...
+     Creating library D:\MyLib\Debug\MyLib.lib and object D:\MyLib\Debug\MyLib.exp
+  MyLib.vcxproj -> D:\MyLib\Debug\MyLib.dll
