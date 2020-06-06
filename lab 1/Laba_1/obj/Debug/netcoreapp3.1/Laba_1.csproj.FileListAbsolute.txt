@@ -1,0 +1,11 @@
+C:\Users\Julia\source\repos\Laba_1\Laba_1\bin\Debug\netcoreapp3.1\Laba_1.exe
+C:\Users\Julia\source\repos\Laba_1\Laba_1\bin\Debug\netcoreapp3.1\Laba_1.deps.json
+C:\Users\Julia\source\repos\Laba_1\Laba_1\bin\Debug\netcoreapp3.1\Laba_1.runtimeconfig.json
+C:\Users\Julia\source\repos\Laba_1\Laba_1\bin\Debug\netcoreapp3.1\Laba_1.runtimeconfig.dev.json
+C:\Users\Julia\source\repos\Laba_1\Laba_1\bin\Debug\netcoreapp3.1\Laba_1.dll
+C:\Users\Julia\source\repos\Laba_1\Laba_1\bin\Debug\netcoreapp3.1\Laba_1.pdb
+C:\Users\Julia\source\repos\Laba_1\Laba_1\obj\Debug\netcoreapp3.1\Laba_1.csprojAssemblyReference.cache
+C:\Users\Julia\source\repos\Laba_1\Laba_1\obj\Debug\netcoreapp3.1\Laba_1.AssemblyInfoInputs.cache
+C:\Users\Julia\source\repos\Laba_1\Laba_1\obj\Debug\netcoreapp3.1\Laba_1.AssemblyInfo.cs
+C:\Users\Julia\source\repos\Laba_1\Laba_1\obj\Debug\netcoreapp3.1\Laba_1.dll
+C:\Users\Julia\source\repos\Laba_1\Laba_1\obj\Debug\netcoreapp3.1\Laba_1.pdb
